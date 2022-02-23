@@ -20,13 +20,15 @@ Um projeto, feito em um desafio proposto pelo curso que estou fazendo no momento
 
 
 
+
+
 <p align = "center">
-  <img min-width = "1000" height = "450" src = "assets/screencast-127.0.0.1_5500-2022.02.23-11_00_22.gif">
+  <img min-width = "1000" height = "420" src = "assets/screencast-127.0.0.1_5500-2022.02.23-11_00_22.gif">
 </p>
 
 
 <p align = "center">
-  <img min-width = "1000" height = "450" src = "assets/screencast-127.0.0.1_5500-2022.02.23-13_14_22.gif">
+  <img min-width = "1000" height = "420" src = "assets/screencast-127.0.0.1_5500-2022.02.23-13_14_22.gif">
 </p>
 
 

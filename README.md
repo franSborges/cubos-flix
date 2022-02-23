@@ -12,25 +12,30 @@ Um projeto, feito em um desafio proposto pelo curso que estou fazendo no momento
 ## Features
 
 - Light/dark mode toggle
-- Live preview
-- Movie carousel
-- search for movies
-- Modal with movie Information
+- movie viewing
+- movie pagination
+- Highlight
+- movie search
+- theme change
+
+
+
+<p align = "center">
+  <img min-width = "1000" height = "450" src = "assets/screencast-127.0.0.1_5500-2022.02.23-11_00_22.gif">
+</p>
 
 
 <p align = "center">
-  <img min-width = "1000" height = "499" src = "assets/screencast-127.0.0.1_5500-2022.02.23-11_00_22.gif">
+  <img min-width = "1000" height = "450" src = "assets/screencast-127.0.0.1_5500-2022.02.23-13_14_22.gif">
 </p>
 
-<p align = "center">
-  <img min-width = "1000" height = "499" src = "assets/screencast-127.0.0.1_5500-2022.02.23-13_14_22.gif">
-</p>
 
 
 ## 🔗 Links
 [![Instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.instagram.com/franb0rges.dev/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
 
 
 ## 🛠 Skills

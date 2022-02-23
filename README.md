@@ -8,12 +8,8 @@ Translate (pt-BR)
 
 Um projeto, feito em um desafio proposto pelo curso que estou fazendo no momento de Desenvolvimento de Software da Instituição Cubos Academy, nesse projeto esta sendo consumida uma api de filmes, o objetivo era uma "netflix", no projeto contém uma paginação de filmes em um carrossel, permite a buscar filmes e a vê as informações dos filmes, como descrição e pontuação atráves de um modal que aparece quando se clica no filme.
 
-## Screenshots
 
-
-![App Screenshot](https://via.placeholder.com/468x300?text=file:///C:/Users/franciele/Downloads/screencapture-127-0-0-1-5500-2022-02-22-21_39_26.png)
 ## Features
-
 
 - Light/dark mode toggle
 - Live preview
@@ -21,6 +17,10 @@ Um projeto, feito em um desafio proposto pelo curso que estou fazendo no momento
 - search for movies
 - Modal with movie Information
 
+
+<p align = "center">
+  <img width = "1000" height = "499" src = "assets/screencast-127.0.0.1_5500-2022.02.23-11_00_22.gif">
+</p>
 
 
 ## 🔗 Links

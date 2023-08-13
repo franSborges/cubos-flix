@@ -1,8 +1,7 @@
 
 # CubosFlix 
 
-A project made in a challenge proposed by the course I'm doing at the moment of Software Development at the Cubos Academy Institution, in this project a movie api is being consumed, the objective and a "Netflix", in the project it contains a pagination of movies in a carousel, allows you to search for movies and see movie information such as description and score through a modal that appears when you click on the movie.
-
+A project made in a challenge proposed by the course I took in Software Development at the Cubos Academy Institution, in this project a movie api is being consumed, the objective was a "Netflix", in the project it contains a pagination of movies in a carousel, it allows to search for movies and see movie information, such as description and score through a modal that appears when you click on the movie.
 
 Translate (pt-BR)
 

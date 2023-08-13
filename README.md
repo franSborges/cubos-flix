@@ -39,7 +39,7 @@ Um projeto, feito em um desafio proposto pelo curso que estou fazendo no momento
 
 
 ## 🛠 Skills
-Javascript, api consumption, DOM manipulation HTML, CSS...
+Javascript, api externa, DOM manipulation HTML, CSS...
 
 
 

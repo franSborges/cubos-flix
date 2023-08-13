@@ -5,7 +5,7 @@ A project made in a challenge proposed by the course I took in Software Developm
 
 Translate (pt-BR)
 
-Um projeto feito em um desafio proposto pelo curso que fiz de Desenvolvimento de Software da Instituição Cubos Academy, nesse projeto esta sendo consumida uma api de filmes, o objetivo era uma "Netflix", no projeto contém uma paginação de filmes em um carrossel, permite a buscar filmes e a vê as informações dos filmes, como descrição e pontuação através de um modal que aparece quando se clica no filme.
+Um projeto feito em um desafio proposto pelo curso que fiz de Desenvolvimento de Software da Instituição Cubos Academy, nesse projeto esta sendo consumida uma api de filmes, o objetivo era uma "Netflix", no projeto contém paginação de filmes em um carrossel, permite a buscar por filmes, informações dos filmes, descrição e pontuação através de um modal que aparece quando se clica no filme.
 
 
 ## Features
